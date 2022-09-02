@@ -1,6 +1,13 @@
 # Hi there 👋
 
-Tenho 22 anos, moro em Indaiatuba/SP e sou apaixonado e dedicado ao meu trabalho como desenvolvedor de software. Buscando sempre aprender novas tecnologias e aprimorar minha stack.
+I'm 22 years old, I live in Indaiatuba/SP and I'm passionate and dedicated to my work as a software developer. Always looking to learn new technologies and improve my stack.
+
+- 🔭 I’m currently working on F1rst
+- 🌱 I’m currently learning Hibrid Mobile languages
+- 👯 I’m looking to collaborate on open source community
+- 🤔 I’m looking for help with good ideas
+- 💬 Ask me about software development
+- ⚡ Fun fact: I love physics
 
 #
 <div align="center">
@@ -22,25 +29,9 @@ Tenho 22 anos, moro em Indaiatuba/SP e sou apaixonado e dedicado ao meu trabalho
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
 </div>
 
-### Social
+### Follow me
 <div>
   <a href="https://www.linkedin.com/in/felipe-goulart-a6a759152" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>                                                                                                     <a href="https://www.instagram.com/goulart_hideki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/Hideki-Goulart/Hideki-Goulart/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-<!--
-**Hideki-Goulart/Hideki-Goulart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
